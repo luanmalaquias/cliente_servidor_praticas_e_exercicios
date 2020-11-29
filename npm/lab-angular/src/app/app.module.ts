@@ -8,7 +8,6 @@ import { RodapeComponent } from './rodape/rodape.component';
 import { ContadorComponent } from './contador/contador.component';
 import { DiretivasComponent } from './diretivas/diretivas.component';
 import { FormreativoComponent } from './formreativo/formreativo.component';
-import { AtendimentoComponent } from './atendimento/atendimento.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +16,6 @@ import { AtendimentoComponent } from './atendimento/atendimento.component';
     ContadorComponent,
     DiretivasComponent,
     FormreativoComponent,
-    AtendimentoComponent
   ],
   imports: [
     BrowserModule,
